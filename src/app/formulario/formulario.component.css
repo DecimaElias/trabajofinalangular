@@ -1,0 +1,30 @@
+.btIng{
+    display: inline-block;
+    padding: 10px 20px; 
+    font-size: 12px; 
+    font-weight: bold;
+    text-align: center; 
+    color: #ffffff; 
+    background-color: #0d466bc4; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.input{
+    
+   
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+    
+}
